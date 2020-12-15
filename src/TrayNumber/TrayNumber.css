@@ -1,0 +1,19 @@
+.TrayNumber {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 3rem;
+  height: 3rem;
+
+  border: 3px solid #aaa;
+  border-radius: 100%;
+
+  color: #aaa;
+  font-family: SansSerif;
+  font-size: 1.25rem;
+  font-weight: bold;
+
+}
+
+

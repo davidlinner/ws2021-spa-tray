@@ -1,0 +1,15 @@
+.TrayPlaceholder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  flex-grow: 1;
+
+  height: 100%;
+
+  color: #aaa;
+
+  font-style: italic;
+}
+
+

@@ -1,0 +1,23 @@
+.Tray {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
+  cursor: pointer;
+  height: 7rem;
+  padding: 0 2rem;
+
+  border-radius: 20px;
+  background: #ffffff;
+  box-shadow:  20px 20px 60px #d9d9d9,
+  -20px -20px 60px #ffffff;
+
+  margin: 30px;
+}
+
+.Tray:active {
+  box-shadow:  10px 10px 20px #d9d9d9,
+  -10px -10px 20px #ffffff;
+}
+
+
